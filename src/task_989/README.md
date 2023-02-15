@@ -12,10 +12,10 @@ Yeah, it is. But.
 
 # Complexity
 - Time complexity:
-  $$O(n)$$, where $$n$$ is number of digits in result sum
+  $O(n)$, where $n$ is number of digits in result sum
 
 - Space complexity:
-  $$O(n)$$, where $$n$$ is amount of digits in result sum
+  $O(n)$, where $n$ is amount of digits in result sum
 
 # Code
 ```
